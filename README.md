@@ -110,3 +110,14 @@ The brain that scrapes, calculates, and analyzes. / 負責抓取、運算與分�
 
 ---
 © 2026 Stock Analysis Bot Open Source Project.
+
+
+Copyright (c) 2026 Steve Shih
+
+This project is open source and free for personal, educational, and research use.
+
+Commercial use is NOT allowed without prior permission from the author.
+
+If you wish to use this software for commercial purposes, please contact the author for a commercial license.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
