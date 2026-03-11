@@ -106,7 +106,7 @@ The brain that scrapes, calculates, and analyzes. / 負責抓取、運算與分�
 ---
 
 ## 🎬 Credits
-- ⚠️ This project is **~95% generated** using AI (Claude 3.5 Sonnet & GPT-4o).
+- ⚠️ This project is **~60% generated** using AI (Claude).
 
 ---
 © 2026 Stock Analysis Bot Open Source Project.
