@@ -2,3 +2,5 @@
 根據設定檔 訓練LINE機器人
 1 目前訓練為貓舍相關知識與股票相關知識
 可定期抓取新聞 在必要時始切換需付費或複雜模型回覆問題並告知花了多少TOKEN
+https://www.youtube.com/shorts/qzjCtCFEAyE
+DEMO 影片
